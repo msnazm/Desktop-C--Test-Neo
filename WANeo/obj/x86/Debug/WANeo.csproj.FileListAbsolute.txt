@@ -1,0 +1,54 @@
+c:\users\azadmaneshmsn\documents\visual studio 2010\Projects\WANeo\WANeo\bin\Debug\WANeo.exe
+c:\users\azadmaneshmsn\documents\visual studio 2010\Projects\WANeo\WANeo\bin\Debug\WANeo.pdb
+c:\users\azadmaneshmsn\documents\visual studio 2010\Projects\WANeo\WANeo\obj\x86\Debug\WANeo.Properties.Resources.resources
+c:\users\azadmaneshmsn\documents\visual studio 2010\Projects\WANeo\WANeo\obj\x86\Debug\WANeo.exe
+c:\users\azadmaneshmsn\documents\visual studio 2010\Projects\WANeo\WANeo\obj\x86\Debug\WANeo.pdb
+C:\Users\azadmaneshmsn\documents\visual studio 2010\Projects\WANeo\WANeo\obj\x86\Debug\RdlCompile.cache
+C:\Users\azadmaneshmsn\documents\visual studio 2010\Projects\WANeo\WANeo\obj\x86\Debug\RdlCompile.compiled
+C:\Users\azadmaneshmsn\documents\visual studio 2010\Projects\WANeo\WANeo\bin\Debug\Data\DbNeo.mdf
+C:\Users\azadmaneshmsn\documents\visual studio 2010\Projects\WANeo\WANeo\bin\Debug\Data\DbNeo_log.ldf
+C:\Users\azadmaneshmsn\documents\visual studio 2010\Projects\WANeo\WANeo\obj\x86\Debug\WFNeo.Form3.resources
+C:\Users\azadmaneshmsn\documents\visual studio 2010\Projects\WANeo\WANeo\obj\x86\Debug\WFNeo.Form3.fa-IR.resources
+C:\Users\azadmaneshmsn\documents\visual studio 2010\Projects\WANeo\WANeo\bin\Debug\fa-IR\WANeo.resources.dll
+C:\Users\azadmaneshmsn\documents\visual studio 2010\Projects\WANeo\WANeo\obj\x86\Debug\fa-IR\WANeo.resources.dll
+Z:\C\Users\azadmaneshmsn\Documents\Visual Studio 2010\Projects\WANeo\WANeo\obj\x86\Debug\WANeo.exe
+Z:\C\Users\azadmaneshmsn\Documents\Visual Studio 2010\Projects\WANeo\WANeo\obj\x86\Debug\WANeo.pdb
+Z:\C\Users\azadmaneshmsn\Documents\Visual Studio 2010\Projects\WANeo\WANeo\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\C\Users\azadmaneshmsn\Documents\Visual Studio 2010\Projects\WANeo\WANeo\obj\x86\Debug\WFNeo.Form3.resources
+Z:\C\Users\azadmaneshmsn\Documents\Visual Studio 2010\Projects\WANeo\WANeo\obj\x86\Debug\WANeo.Properties.Resources.resources
+Z:\C\Users\azadmaneshmsn\Documents\Visual Studio 2010\Projects\WANeo\WANeo\obj\x86\Debug\WFNeo.Form3.fa-IR.resources
+Z:\C\Users\azadmaneshmsn\Documents\Visual Studio 2010\Projects\WANeo\WANeo\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\C\Users\azadmaneshmsn\Documents\Visual Studio 2010\Projects\WANeo\WANeo\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\C\Users\azadmaneshmsn\Documents\Visual Studio 2010\Projects\WANeo\WANeo\obj\x86\Debug\RdlCompile.cache
+Z:\C\Users\azadmaneshmsn\Documents\Visual Studio 2010\Projects\WANeo\WANeo\obj\x86\Debug\RdlCompile.compiled
+C:\Users\azadmaneshmsn\Documents\Visual Studio 2010\Projects\WANeo\WANeo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\azadmaneshmsn\Documents\Visual Studio 2010\Projects\WANeo\WANeo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\azadmaneshmsn\Documents\Visual Studio 2010\Projects\WANeo\WANeo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\WANeo\WANeo\obj\x86\Debug\WANeo.exe
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\WANeo\WANeo\obj\x86\Debug\WANeo.pdb
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\WANeo\WANeo\bin\Debug\Data\DbNeo.mdf
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\WANeo\WANeo\bin\Debug\Data\DbNeo_log.ldf
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\WANeo\WANeo\bin\Debug\WANeo.exe
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\WANeo\WANeo\bin\Debug\WANeo.pdb
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\WANeo\WANeo\bin\Debug\fa-IR\WANeo.resources.dll
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\WANeo\WANeo\obj\x86\Debug\WFNeo.Form3.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\WANeo\WANeo\obj\x86\Debug\WANeo.Properties.Resources.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\WANeo\WANeo\obj\x86\Debug\WFNeo.Form3.fa-IR.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\WANeo\WANeo\obj\x86\Debug\RdlCompile.cache
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\WANeo\WANeo\obj\x86\Debug\RdlCompile.compiled
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\WANeo\WANeo\obj\x86\Debug\fa-IR\WANeo.resources.dll
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\WANeo\WANeo\obj\x86\Debug\WANeo.csprojResolveAssemblyReference.cache
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\WANeo\WANeo\obj\x86\Debug\WANeo.csproj.GenerateResource.Cache
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\WANeo\WANeo\obj\x86\Debug\WANeo.Form1.resources
+E:\92.8.20\Users\MSN\Documents\Visual Studio 2010\Projects\WANeo\WANeo\obj\x86\Debug\WANeo.exe
+C:\Users\NEW MSN\Desktop\WANeo\WANeo\obj\x86\Debug\WANeo.exe
+C:\Users\NEW MSN\Desktop\WANeo\WANeo\obj\x86\Debug\WANeo.csprojResolveAssemblyReference.cache
+C:\Users\NEW MSN\Desktop\WANeo\WANeo\obj\x86\Debug\WANeo.Form1.resources
+C:\Users\NEW MSN\Desktop\WANeo\WANeo\obj\x86\Debug\WFNeo.Form3.resources
+C:\Users\NEW MSN\Desktop\WANeo\WANeo\obj\x86\Debug\WANeo.Properties.Resources.resources
+C:\Users\NEW MSN\Desktop\WANeo\WANeo\obj\x86\Debug\WFNeo.Form3.fa-IR.resources
+C:\Users\NEW MSN\Desktop\WANeo\WANeo\obj\x86\Debug\WANeo.csproj.GenerateResource.Cache
+C:\Users\NEW MSN\Desktop\WANeo\WANeo\obj\x86\Debug\RdlCompile.cache
+C:\Users\NEW MSN\Desktop\WANeo\WANeo\obj\x86\Debug\RdlCompile.compiled
+C:\Users\NEW MSN\Desktop\WANeo\WANeo\bin\Debug\WANeo.exe.config
+C:\Users\NEW MSN\Desktop\WANeo\WANeo\obj\x86\Debug\WANeo.csprojFakesResolveAssemblyReference.cache

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 26.625" name="DCNeo">
+  <DataContextMoniker Name="/DCNeoDataContext" />
+  <nestedChildShapes>
+    <classShape Id="f56cf7db-49f2-477e-ae4d-774dbacbdcf3" absoluteBounds="0.5, 0.5, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/DCNeoDataContext/tblAccount" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7c77d73c-f93b-4ebc-86ce-0fc7acbf367d" absoluteBounds="0.51500000000000012, 0.96, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d3d62115-a1c8-4229-ab9e-ca7691d411f9" absoluteBounds="4.5, 1.375, 2, 25.039370117187502">
+      <DataClassMoniker Name="/DCNeoDataContext/TB_Neo" />
+      <nestedChildShapes>
+        <elementListCompartment Id="43353872-c1d0-4833-9c14-e6acce35cfac" absoluteBounds="4.515, 1.835, 1.9700000000000002, 24.4793701171875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

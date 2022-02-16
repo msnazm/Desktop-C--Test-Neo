@@ -1,0 +1,287 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="DbNeo" Class="DCNeoDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.\SQLEXPRESS;AttachDbFilename=|DataDirectory|\Data\DbNeo.mdf;Integrated Security=True;User Instance=True" SettingsObjectName="WANeo.Properties.Settings" SettingsPropertyName="DbNeoConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.tblAccount" Member="tblAccounts">
+    <Type Name="tblAccount">
+      <Column Name="AccountID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Daramad" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Hazine" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Comment" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TB_Neo" Member="TB_Neos">
+    <Type Name="TB_Neo">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="na" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="nb" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="nc" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="nd" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="ne" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="nf" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="ng" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="nh" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="ni" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="nj" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="nk" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="nl" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="ea" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="eb" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="ec" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="ed" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="ee" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="ef" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="eg" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="eh" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="ei" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="ej" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="ek" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="el" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="oa" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="ob" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="oc" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="od" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="oe" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="[of]" Member="of" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="og" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="oh" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="oi" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="oj" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="ok" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="ol" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="aa" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="ab" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="ac" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="ad" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="ae" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="af" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="ag" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="ah" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="ai" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="aj" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="ak" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="al" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="ca" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="cb" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="cc" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="cd" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="ce" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="cf" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="cg" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="ch" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="ci" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="cj" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="ck" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="cl" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="NameF" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="DateNeo" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="Meli" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="Adress" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="PhoneH" Type="System.String" DbType="NVarChar(15)" CanBeNull="true" />
+      <Column Name="PhoneM" Type="System.String" DbType="NVarChar(15)" CanBeNull="true" />
+      <Column Name="NumberSh" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="LoEsh" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="N" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="E" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="O" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="A" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="C" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="paj" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="pad" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="pba" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="pbh" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="pcd" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="pch" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="pdb" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="pdj" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="pej" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="peh" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="pfa" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="pfb" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="pgj" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="pgh" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="pha" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="phb" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="pia" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="pih" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="pjb" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="pjh" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="pka" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="pkd" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="pld" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="plh" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="pmb" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="pmh" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="pnj" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="pnd" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="ppb" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="ppd" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="poa" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="pod" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="pqb" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="pqj" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="pua" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="puj" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="pwa" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="pwj" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="pxb" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="pxd" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="PA" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="PB" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="PJ" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="PD" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="PH" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Number" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Peyvast" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="ResultNeo" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="ShoghlNext" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="Comment" Type="System.String" DbType="NVarChar(250)" CanBeNull="true" />
+      <Column Name="Price" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Function Name="dbo.sp_delete_tbl_Neo" Method="sp_delete_tbl_Neo">
+    <Parameter Name="Id" Parameter="id" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.sp_update_tbl_Neo" Method="sp_update_tbl_Neo">
+    <Parameter Name="Id" Parameter="id" Type="System.Int32" DbType="Int" />
+    <Parameter Name="Number" Parameter="number" Type="System.Int32" DbType="Int" />
+    <Parameter Name="Peyvast" Parameter="peyvast" Type="System.String" DbType="NVarChar(50)" />
+    <Parameter Name="ResultNeo" Parameter="resultNeo" Type="System.String" DbType="NVarChar(500)" />
+    <Parameter Name="Comment" Parameter="comment" Type="System.String" DbType="NVarChar(250)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.InsertNeorecordAccount" Method="InsertNeorecordAccount">
+    <Parameter Name="Daramad" Parameter="daramad" Type="System.Int32" DbType="Int" />
+    <Parameter Name="Hazine" Parameter="hazine" Type="System.Int32" DbType="Int" />
+    <Parameter Name="Comment" Parameter="comment" Type="System.String" DbType="NVarChar(200)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.InsertNeorecord" Method="InsertNeorecord">
+    <Parameter Name="na" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="nb" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="nc" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="nd" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="ne" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="nf" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="ng" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="nh" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="ni" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="nj" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="nk" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="nl" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="ea" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="eb" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="ec" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="ed" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="ee" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="ef" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="eg" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="eh" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="ei" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="ej" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="ek" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="el" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="oa" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="ob" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="oc" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="od" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="oe" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="of" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="og" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="oh" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="oi" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="oj" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="ok" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="ol" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="aa" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="ab" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="ac" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="ad" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="ae" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="af" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="ag" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="ah" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="ai" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="aj" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="ak" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="al" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="ca" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="cb" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="cc" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="cd" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="ce" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="cf" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="cg" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="ch" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="ci" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="cj" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="ck" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="cl" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="Name" Parameter="name" Type="System.String" DbType="NVarChar(50)" />
+    <Parameter Name="NameF" Parameter="nameF" Type="System.String" DbType="NVarChar(50)" />
+    <Parameter Name="DateNeo" Parameter="dateNeo" Type="System.String" DbType="NVarChar(10)" />
+    <Parameter Name="Meli" Parameter="meli" Type="System.String" DbType="NVarChar(10)" />
+    <Parameter Name="Adress" Parameter="adress" Type="System.String" DbType="NVarChar(100)" />
+    <Parameter Name="PhoneH" Parameter="phoneH" Type="System.String" DbType="NVarChar(15)" />
+    <Parameter Name="PhoneM" Parameter="phoneM" Type="System.String" DbType="NVarChar(15)" />
+    <Parameter Name="NumberSh" Parameter="numberSh" Type="System.String" DbType="NVarChar(10)" />
+    <Parameter Name="LoEsh" Parameter="loEsh" Type="System.String" DbType="NVarChar(100)" />
+    <Parameter Name="N" Parameter="n" Type="System.Int32" DbType="Int" />
+    <Parameter Name="E" Parameter="e" Type="System.Int32" DbType="Int" />
+    <Parameter Name="O" Parameter="o" Type="System.Int32" DbType="Int" />
+    <Parameter Name="A" Parameter="a" Type="System.Int32" DbType="Int" />
+    <Parameter Name="C" Parameter="c" Type="System.Int32" DbType="Int" />
+    <Parameter Name="paj" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="pad" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="pba" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="pbh" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="pcd" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="pch" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="pdb" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="pdj" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="pej" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="peh" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="pfa" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="pfb" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="pgj" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="pgh" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="pha" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="phb" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="pia" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="pih" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="pjb" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="pjh" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="pka" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="pkd" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="pld" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="plh" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="pmb" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="pmh" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="pnj" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="pnd" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="ppb" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="ppd" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="poa" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="pod" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="pqb" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="pqj" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="pua" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="puj" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="pwa" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="pwj" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="pxb" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="pxd" Type="System.Byte" DbType="TinyInt" />
+    <Parameter Name="pA" Type="System.Int32" DbType="Int" />
+    <Parameter Name="pB" Type="System.Int32" DbType="Int" />
+    <Parameter Name="pJ" Type="System.Int32" DbType="Int" />
+    <Parameter Name="pD" Type="System.Int32" DbType="Int" />
+    <Parameter Name="pH" Type="System.Int32" DbType="Int" />
+    <Parameter Name="Number" Parameter="number" Type="System.Int32" DbType="Int" />
+    <Parameter Name="Peyvast" Parameter="peyvast" Type="System.String" DbType="NVarChar(50)" />
+    <Parameter Name="ResultNeo" Parameter="resultNeo" Type="System.String" DbType="NVarChar(500)" />
+    <Parameter Name="ShoghlNext" Parameter="shoghlNext" Type="System.String" DbType="NVarChar(100)" />
+    <Parameter Name="Comment" Parameter="comment" Type="System.String" DbType="NVarChar(250)" />
+    <Parameter Name="Price" Parameter="price" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+</Database>
